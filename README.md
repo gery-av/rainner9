@@ -28,8 +28,8 @@
 </h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainner9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rainner9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery-av&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gery-av&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px;"/>
 </div>
 
 <h2 align="left">
