@@ -1,7 +1,3 @@
-<h1 align="center">
-◜𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿◝
-</h1>
-
 <p align="center">
   <img src="Assets/code.gif" alt="Hello" style="object-fit: cover; margin-top: 50px;">
 </p>
@@ -71,5 +67,5 @@
 VISITOR
 <br>
 
-◟<img align="cener" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> ◞
+<img align="cener" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> 
 </h1>
